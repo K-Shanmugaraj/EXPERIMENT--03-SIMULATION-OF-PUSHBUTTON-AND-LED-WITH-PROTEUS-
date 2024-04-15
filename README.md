@@ -40,7 +40,9 @@ interfaces Datasheet - production data Features
 
 
 7.click on cntrl+S , automaticall C program will be generated 
-![Screenshot (125)](https://github.com/K-Shanmugaraj/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/144870425/e80d817e-d4bd-476c-81d8-35081d36e3e5)
+
+![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
+![image](https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png)
 
 
 8. edit the program and as per required 
